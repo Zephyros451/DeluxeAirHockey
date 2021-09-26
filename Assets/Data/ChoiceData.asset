@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f771abffac15954780ea38f0945c2d2, type: 3}
+  m_Name: ChoiceData
+  m_EditorClassIdentifier: 
+  playerTeam: {fileID: 21300000, guid: f057b7459b0982f43b0d17a9f8f8626d, type: 3}
+  enemyTeam: {fileID: 21300000, guid: 5d0e32d148c0aa14193fd932dad3c062, type: 3}
+  prediction: 0
